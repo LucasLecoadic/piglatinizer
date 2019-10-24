@@ -1,6 +1,44 @@
-.container{
-    text-align:center;
-}
 body{
-    background:pink;
+ background-image: url("https://pighealthtoday.com/wp-content/uploads/2019/09/PGTweb_D.-Brown-Piglet_62246981outline.jpg");
+  background-size:cover;
+   background-repeat:no-repeat;
+  text-align:center;
+  background-position-y: 25%;
 }
+
+
+
+#button:hover {
+background: green;
+color: black;
+}
+#button{
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+    border: solid white 3px;
+    font-family: 'Exo 2', sans-serif;
+    }
+
+p{
+    font-family: 'Exo 2', sans-serif;
+    text-align:center;
+    font-size:35px;
+}
+
+h1{
+font-family: 'Exo 2', sans-serif;
+border:solid;
+text-align:center;
+font-size:65px;
+}
+
+input{
+    width:300px;
+    height:50px;
+    font-family: 'Exo 2', sans-serif;
+    font-size:25px;
+    }
